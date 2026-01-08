@@ -15,7 +15,7 @@ This project is **modular, easy to read, and professional**, perfect for learnin
 - ✅ Easy to expand (add database or web UI)  
 
 ## 📂 Project Structure
-│
+- │SignUp_Form/ 
 - ├── app.py # Main program / entry point
 - ├── models/
 - │ └── student.py # Student data model
