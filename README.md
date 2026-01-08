@@ -19,16 +19,14 @@ This project is **modular, easy to read, and professional**, perfect for learnin
 ---
 
 ## 📂 Project Structure
-student_registration_system/
 │
-├── app.py                    # Main entry point
+├── app.py # Main program / entry point
 ├── models/
-│   └── student.py            # Student data model
+│ └── student.py # Student data model
 ├── services/
-│   └── storage_service.py    # Handles student storage
+│ └── storage_service.py # Handles storage of students and count
 ├── validations/
-│   └── student_validations.py  # Input validation functions
+│ └── student_validations.py # Input validation functions
 └── ui/
-    └── console_form.py       # Console form input
-
+└── console_form.py # Console-based form input / UI
 
