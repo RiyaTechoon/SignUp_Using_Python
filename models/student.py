@@ -5,6 +5,8 @@ class Student:
         self.first = first
         self.middle = middle
         self.last = last
+        self.gender = gender
         self.dob = dob
+        self.city = city
         self.phone = phone
         self.course = course
